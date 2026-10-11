@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**meet0308/meet0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Sc. Data Science student building my skills in Data Analytics and Data Science.
 
-Here are some ideas to get you started:
+## Skills
+- SQL / MySQL
+- Microsoft Excel
+- Power BI
+- Data Analysis
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- E-Commerce Sales Analysis using MySQL
+- Student Performance Dashboard using Excel
+- E-Commerce Sales Dashboard using Excel
+- E-Commerce Sales Dashboard using Power BI
+
+## Currently Learning
+- Advanced SQL
+- Data Analytics
+- Python for Data Science
+
+## Goal
+To improve my data skills through practical projects and gain real-world experience.
